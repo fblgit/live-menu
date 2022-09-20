@@ -756,7 +756,7 @@
                 <div class="ms-2 me-auto">
                   <div class="fw-bold">STOCK</div>
                 </div>
-                <span class="badge bg-warning rounded-pill">MID</span>
+                <span class="badge bg-success rounded-pill">GOOD</span>
               </li>
             </ul>
             <div class="card-footer m-1">
