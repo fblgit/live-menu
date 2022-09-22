@@ -319,56 +319,6 @@
       
         <div class="col">
           <div class="card m-2" style="width: 18rem;">
-            <img src="https://api.loyverse.com/image/9756b091-dac2-43a3-8ed6-dcddb87f2174" class="card-img-top" alt="Gorilla Glue">
-            <div class="card-body">
-              <h5 class="card-title text-center">Gorilla Glue</h5>
-              <div class="d-flex justify-content-between align-items-center">
-                <img src="https://static.wikileaf.com/assets/strain-types/hybrid.svg" class="img-fluid opacity-25" alt="...">
-                <img src="https://static.wikileaf.com/assets/time-of-use/evening.svg" class="img-fluid opacity-25" alt="...">
-              </div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">THC</div>
-                </div>
-                <span class="badge bg-success rounded-pill">22 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">CBD</div>
-                </div>
-                <span class="badge bg-success rounded-pill">0 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">TYPE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">50% Hybrid</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">USECASE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">Night</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">STOCK</div>
-                </div>
-                <span class="badge bg-warning rounded-pill">MID</span>
-              </li>
-            </ul>
-            <div class="card-footer m-1">
-              <div class="ms-2 me-auto">
-              <a class="btn btn-success w-100" role="button" href="https://goo.gl/maps/Wmrke3RXpufqxrH29"><h3>400 THB/g</h3></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      
-        <div class="col">
-          <div class="card m-2" style="width: 18rem;">
             <img src="https://api.loyverse.com/image/a5a3d0d7-48ad-4aff-9c04-c0c0703b5a45" class="card-img-top" alt="Green Crack Sativa Outdoor">
             <div class="card-body">
               <h5 class="card-title text-center">Green Crack Sativa Outdoor</h5>
@@ -412,56 +362,6 @@
             <div class="card-footer m-1">
               <div class="ms-2 me-auto">
               <a class="btn btn-success w-100" role="button" href="https://goo.gl/maps/Wmrke3RXpufqxrH29"><h3>170 THB/g</h3></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      
-        <div class="col">
-          <div class="card m-2" style="width: 18rem;">
-            <img src="https://api.loyverse.com/image/d8cf2863-8184-4424-b07e-ad99c639ff8e" class="card-img-top" alt="Guava Ice">
-            <div class="card-body">
-              <h5 class="card-title text-center">Guava Ice</h5>
-              <div class="d-flex justify-content-between align-items-center">
-                <img src="https://static.wikileaf.com/assets/strain-types/sativa.svg" class="img-fluid opacity-25" alt="...">
-                <img src="https://static.wikileaf.com/assets/time-of-use/afternoon.svg" class="img-fluid opacity-25" alt="...">
-              </div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">THC</div>
-                </div>
-                <span class="badge bg-success rounded-pill">26 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">CBD</div>
-                </div>
-                <span class="badge bg-success rounded-pill">1 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">TYPE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">60% Sativa</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">USECASE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">Afternoon</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">STOCK</div>
-                </div>
-                <span class="badge bg-warning rounded-pill">MID</span>
-              </li>
-            </ul>
-            <div class="card-footer m-1">
-              <div class="ms-2 me-auto">
-              <a class="btn btn-success w-100" role="button" href="https://goo.gl/maps/Wmrke3RXpufqxrH29"><h3>620 THB/g</h3></a>
               </div>
             </div>
           </div>
