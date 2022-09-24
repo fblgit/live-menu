@@ -119,6 +119,56 @@
       
         <div class="col">
           <div class="card m-2" style="width: 18rem;">
+            <img src="https://api.loyverse.com/image/38366f64-e4c3-45eb-8153-07ae37a1b151" class="card-img-top" alt="Cheetah Power">
+            <div class="card-body">
+              <h5 class="card-title text-center">Cheetah Power</h5>
+              <div class="d-flex justify-content-between align-items-center">
+                <img src="https://static.wikileaf.com/assets/strain-types/hybrid.svg" class="img-fluid opacity-25" alt="...">
+                <img src="https://static.wikileaf.com/assets/time-of-use/evening.svg" class="img-fluid opacity-25" alt="...">
+              </div>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">THC</div>
+                </div>
+                <span class="badge bg-success rounded-pill">28 %</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">CBD</div>
+                </div>
+                <span class="badge bg-success rounded-pill">1 %</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">TYPE</div>
+                </div>
+                <span class="badge bg-primary rounded-pill">Hybrid</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">USECASE</div>
+                </div>
+                <span class="badge bg-primary rounded-pill">Evening</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">STOCK</div>
+                </div>
+                <span class="badge bg-success rounded-pill">GOOD</span>
+              </li>
+            </ul>
+            <div class="card-footer m-1">
+              <div class="ms-2 me-auto">
+              <a class="btn btn-success w-100" role="button" href="https://goo.gl/maps/Wmrke3RXpufqxrH29"><h3>620 THB/g</h3></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col">
+          <div class="card m-2" style="width: 18rem;">
             <img src="https://api.loyverse.com/image/02206711-5f28-476c-b731-e702e270bb78" class="card-img-top" alt="ChemStar">
             <div class="card-body">
               <h5 class="card-title text-center">ChemStar</h5>
@@ -132,7 +182,7 @@
                 <div class="ms-2 me-auto">
                   <div class="fw-bold">THC</div>
                 </div>
-                <span class="badge bg-success rounded-pill">27 %</span>
+                <span class="badge bg-success rounded-pill">29 %</span>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
@@ -632,7 +682,7 @@
                 <div class="ms-2 me-auto">
                   <div class="fw-bold">THC</div>
                 </div>
-                <span class="badge bg-success rounded-pill">22 %</span>
+                <span class="badge bg-success rounded-pill">26 %</span>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
