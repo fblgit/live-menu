@@ -519,56 +519,6 @@
       
         <div class="col">
           <div class="card m-2" style="width: 18rem;">
-            <img src="https://api.loyverse.com/image/36325e15-c0d1-4432-9d4c-b39d3181ba51" class="card-img-top" alt="Orange Dream">
-            <div class="card-body">
-              <h5 class="card-title text-center">Orange Dream</h5>
-              <div class="d-flex justify-content-between align-items-center">
-                <img src="https://static.wikileaf.com/assets/strain-types/hybrid.svg" class="img-fluid opacity-25" alt="...">
-                <img src="https://static.wikileaf.com/assets/time-of-use/afternoon.svg" class="img-fluid opacity-25" alt="...">
-              </div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">THC</div>
-                </div>
-                <span class="badge bg-success rounded-pill">19 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">CBD</div>
-                </div>
-                <span class="badge bg-success rounded-pill">2 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">TYPE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">50% Hybrid</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">USECASE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">Afternoon</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">STOCK</div>
-                </div>
-                <span class="badge bg-success rounded-pill">GOOD</span>
-              </li>
-            </ul>
-            <div class="card-footer m-1">
-              <div class="ms-2 me-auto">
-              <a class="btn btn-success w-100" role="button" href="https://420samui.com"><h3>190 THB/g</h3></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      
-        <div class="col">
-          <div class="card m-2" style="width: 18rem;">
             <img src="https://api.loyverse.com/image/ea7ee691-16f9-42a2-9a14-be5cae095e4a" class="card-img-top" alt="Outdoor Glue">
             <div class="card-body">
               <h5 class="card-title text-center">Outdoor Glue</h5>
