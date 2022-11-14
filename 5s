@@ -667,6 +667,56 @@
           </div>
         </div>
       
+        <div class="col">
+          <div class="card m-2" style="width: 18rem;">
+            <img src="https://api.loyverse.com/image/959a9a41-56b0-42fd-a5b6-322110c98458" class="card-img-top" alt="Sugar Hush">
+            <div class="card-body">
+              <h5 class="card-title text-center">Sugar Hush</h5>
+              <div class="d-flex justify-content-between align-items-center">
+                <img src="https://static.wikileaf.com/assets/strain-types/hybrid.svg" class="img-fluid opacity-25" alt="...">
+                <img src="https://static.wikileaf.com/assets/time-of-use/evening.svg" class="img-fluid opacity-25" alt="...">
+              </div>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">THC</div>
+                </div>
+                <span class="badge bg-success rounded-pill">26 %</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">CBD</div>
+                </div>
+                <span class="badge bg-success rounded-pill">0 %</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">TYPE</div>
+                </div>
+                <span class="badge bg-primary rounded-pill">Hybrid</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">USECASE</div>
+                </div>
+                <span class="badge bg-primary rounded-pill">Night</span>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                  <div class="fw-bold">STOCK</div>
+                </div>
+                <span class="badge bg-success rounded-pill">GOOD</span>
+              </li>
+            </ul>
+            <div class="card-footer m-1">
+              <div class="ms-2 me-auto">
+              <a class="btn btn-success w-100" role="button" href="https://420samui.com"><h3>620 THB/g</h3></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
