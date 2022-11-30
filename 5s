@@ -519,56 +519,6 @@
       
         <div class="col">
           <div class="card m-2" style="width: 18rem;">
-            <img src="https://api.loyverse.com/image/d405ec49-fa0b-4e5c-8f09-528f10ca13f9" class="card-img-top" alt="Sour Diesel">
-            <div class="card-body">
-              <h5 class="card-title text-center">Sour Diesel</h5>
-              <div class="d-flex justify-content-between align-items-center">
-                <img src="https://static.wikileaf.com/assets/strain-types/sativa.svg" class="img-fluid opacity-25" alt="...">
-                <img src="https://static.wikileaf.com/assets/time-of-use/morning.svg" class="img-fluid opacity-25" alt="...">
-              </div>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">THC</div>
-                </div>
-                <span class="badge bg-success rounded-pill">26 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">CBD</div>
-                </div>
-                <span class="badge bg-success rounded-pill">2 %</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">TYPE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">90% Sativa</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">USECASE</div>
-                </div>
-                <span class="badge bg-primary rounded-pill">Morning</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold">STOCK</div>
-                </div>
-                <span class="badge bg-danger rounded-pill">LOW</span>
-              </li>
-            </ul>
-            <div class="card-footer m-1">
-              <div class="ms-2 me-auto">
-              <a class="btn btn-success w-100" role="button" href="https://420samui.com"><h3>620 THB/g</h3></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      
-        <div class="col">
-          <div class="card m-2" style="width: 18rem;">
             <img src="https://api.loyverse.com/image/959a9a41-56b0-42fd-a5b6-322110c98458" class="card-img-top" alt="Sugar Hush">
             <div class="card-body">
               <h5 class="card-title text-center">Sugar Hush</h5>
