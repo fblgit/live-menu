@@ -261,7 +261,7 @@
             </ul>
             <div class="card-footer m-1">
               <div class="ms-2 me-auto">
-              <a class="btn btn-success w-100" role="button" href="https://420samui.com"><h3>450 THB/g</h3></a>
+              <a class="btn btn-success w-100" role="button" href="https://420samui.com"><h3>420 THB/g</h3></a>
               </div>
             </div>
           </div>
@@ -469,12 +469,12 @@
       
         <div class="col">
           <div class="card m-2" style="width: 18rem;">
-            <img src="https://api.loyverse.com/image/ed797f09-d177-40f7-adb2-693d7a1106e9" class="card-img-top" alt="Pineapple Express">
+            <img src="https://api.loyverse.com/image/62b65a70-3e15-495b-8524-10d1ae317c5a" class="card-img-top" alt="Platinum ICE">
             <div class="card-body">
-              <h5 class="card-title text-center">Pineapple Express</h5>
+              <h5 class="card-title text-center">Platinum ICE</h5>
               <div class="d-flex justify-content-between align-items-center">
-                <img src="https://static.wikileaf.com/assets/strain-types/sativa.svg" class="img-fluid opacity-25" alt="...">
-                <img src="https://static.wikileaf.com/assets/time-of-use/afternoon.svg" class="img-fluid opacity-25" alt="...">
+                <img src="https://static.wikileaf.com/assets/strain-types/indica.svg" class="img-fluid opacity-25" alt="...">
+                <img src="https://static.wikileaf.com/assets/time-of-use/evening.svg" class="img-fluid opacity-25" alt="...">
               </div>
             </div>
             <ul class="list-group list-group-flush">
@@ -494,13 +494,13 @@
                 <div class="ms-2 me-auto">
                   <div class="fw-bold">TYPE</div>
                 </div>
-                <span class="badge bg-primary rounded-pill">60% Sativa</span>
+                <span class="badge bg-primary rounded-pill">75% Indica</span>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
                   <div class="fw-bold">USECASE</div>
                 </div>
-                <span class="badge bg-primary rounded-pill">Afternoon</span>
+                <span class="badge bg-primary rounded-pill">Evening</span>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-start">
                 <div class="ms-2 me-auto">
